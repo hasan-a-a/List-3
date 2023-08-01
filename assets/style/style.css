@@ -1,0 +1,14 @@
+form{
+    margin: 10px auto;
+    padding: 10px 0;
+}
+.make-colum {
+    width: max-content;
+}
+#logout {
+    float: right;
+    margin: 15px 15px 0 0;
+}
+#main-log-in{
+    padding-top: 55px;
+}
